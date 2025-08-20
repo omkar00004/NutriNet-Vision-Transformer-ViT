@@ -35,7 +35,7 @@ NutriNet is a comprehensive food classification system that leverages the power 
 ```
 NutriNet-Vision-Transformer-ViT/
 ├── Data/                          # Dataset and data processing scripts
-├── app/                           # Streamlit web application
+├── app/                           # gradio web application
 ├── extras/                        # Additional utilities and resources
 ├── 01_PyTorch_workflow.ipynb      # Basic PyTorch workflow tutorial
 ├── 02_Neural_Networks_classification_with_PyTorch.ipynb
