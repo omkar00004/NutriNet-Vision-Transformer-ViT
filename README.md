@@ -44,8 +44,8 @@ NutriNet-Vision-Transformer-ViT/
 ├── 05_pytorch_going_modular_cell_mode.ipynb
 ├── 06_pytorch_transfer_learning.ipynb
 ├── 07_pytorch_experiment_tracking.ipynb
-├── 08_pytorch_paper_replicating_video.ipynb
-├── 09_pytorch_model_deployment_video.ipynb
+├── 08_pytorch_paper_replicating.ipynb
+├── 09_pytorch_model_deployment.ipynb
 └── README.md
 ```
 
