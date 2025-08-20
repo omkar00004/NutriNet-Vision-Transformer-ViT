@@ -37,7 +37,7 @@ NutriNet-Vision-Transformer-ViT/
 ├── Data/                          # Dataset and data processing scripts
 ├── app/                           # gradio web application
 ├── extras/                        # Additional utilities and resources
-├── 01_PyTorch_workflow.ipynb      # Basic PyTorch workflow tutorial
+├── 01_PyTorch_workflow.ipynb      
 ├── 02_Neural_Networks_classification_with_PyTorch.ipynb
 ├── 03_PyTorch_computer_vision.ipynb
 ├── 04_pytorch_custom_datasets.ipynb
